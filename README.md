@@ -26,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viraj-s15&show_icons=true&locale=en&layout=compact" alt="viraj-s15" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viraj-s15&show_icons=true&locale=en" alt="viraj-s15" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viraj-s15&" alt="viraj-s15" /></p>
