@@ -11,8 +11,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/viraj-s/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" ></a>
   </span>
-  
-  ---
+
   <h2>Technologies I am familar with</h2>
   
 
