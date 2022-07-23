@@ -1,3 +1,3 @@
 ### Student, Full Stack Web developer, Gamer, Machine learning enthusiast
-###  https://viraj-s.netlify.app
+###  <a href="https://viraj-s.netlify.app">About Me</a>
 
