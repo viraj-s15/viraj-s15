@@ -1,11 +1,11 @@
 <h1 align="center">Hey there, I'm Viraj</h1>
 <h3 align="center">Full Stack Developer || Machine Learning Enthusiast || Student || Gamer</h3>
 
-- 🔭 I’m currently working on **a portfolio website**
+- 🔭 I’m currently working on **a MERN stack app**
 
-- 🌱 I’m currently learning **MERN Stack integration with other technologies**
+- 🌱 I’m currently learning **basics of machine learning**
 
-- 👯 I’m looking to collaborate on **anything**
+- 👯 I’m looking to collaborate on **anything that involves web development**
 
 - 📝 Know a little more about me [https://viraj-s.netlify.app](https://viraj-s.netlify.app)
 
