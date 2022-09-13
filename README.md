@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Viraj</h1>
-<h3 align="center">Full Stack Developer || Machine Learning Enthusiast || Student || Gamer</h3>
+<h3 align="center">Full Stack Developer || Machine Learning Enthusiast || Student </h3>
 
-- 🔭 I’m currently working on **a MERN stack app**
+- 🔭 I’m currently working on **my blog**. You can check it out <a href="https://bloggy-viraj-s15.vercel.app">here</a>
 
 - 🌱 I’m currently learning **basics of machine learning**
 
