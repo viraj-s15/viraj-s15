@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **anything that involves web development**
 
-- 📝 Know a little more about me [https://viraj-s.netlify.app](https://viraj-s.netlify.app)
+- 📝 Know a little more about me <a href="https://viraj-s.netlify.app">here</a> 
 
 - 💬 Ask me about **react**
 
