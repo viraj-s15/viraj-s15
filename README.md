@@ -9,8 +9,6 @@
 
 - 📝 Know a little more about me <a href="https://viraj-s.netlify.app">here</a> 
 
-- 💬 Ask me about **react**
-
 - 📫 How to reach me **viraj.v.shah03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
