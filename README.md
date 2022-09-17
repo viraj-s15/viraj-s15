@@ -37,7 +37,8 @@
 
 <br>
 
+<div align = "center">
 [![Spotify](https://pht6jxur71of4ibu559zxm1jh.vercel.app/api/spotify)](https://open.spotify.com/user/pht6jxur71of4ibu559zxm1jh)
-
+</div>
 
 
