@@ -28,12 +28,13 @@
 </p>
 
 <div align="center">
+  <span>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viraj-s15&show_icons=true&locale=en&layout=compact" alt="viraj-s15" /></p>
 
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viraj-s15&show_icons=true&locale=en" alt="viraj-s15" /></p>
-
+  </span>
 
 <br>
 
