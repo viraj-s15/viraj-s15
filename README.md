@@ -37,7 +37,6 @@
 
 <br>
 
-[![Spotify](https://USER_NAME.vercel.app/api/)](https://open.spotify.com/user/USER_NAME)  
 </div>
 
 
