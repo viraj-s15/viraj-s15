@@ -34,9 +34,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viraj-s15&show_icons=true&locale=en" alt="viraj-s15" /></p>
   </span>
 
+
 <br>
-### Currently Vibing to: 
- <br>
 [![Spotify](https://pht6jxur71of4ibu559zxm1jh.vercel.app/api/spotify/)](https://open.spotify.com/user/pht6jxur71of4ibu559zxm1jh)
 </div>
 
