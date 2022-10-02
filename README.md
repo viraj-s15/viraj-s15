@@ -1,9 +1,9 @@
 <h1 align="center">Hey there, I'm Viraj</h1>
 <h3 align="center">Full Stack Developer || Machine Learning Enthusiast || Student </h3>
 
-### I am a student at VIT Vellore and I love messing around with tech. 
-### I use arch btw
-
+<div align="center">
+### I am a pursuing a BTech at VIT Vellore and I love messing around with tech. I am a linux enthusiast and an open source aficionado(I use arch btw).   
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/viraj-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viraj-s" height="30" width="40" /></a>
