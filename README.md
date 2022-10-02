@@ -1,15 +1,8 @@
 <h1 align="center">Hey there, I'm Viraj</h1>
 <h3 align="center">Full Stack Developer || Machine Learning Enthusiast || Student </h3>
 
-- 🔭 I’m currently working on **my blog**. You can check it out <a href="https://bloggy-viraj-s15.vercel.app">here</a>
-
-- 🌱 I’m currently learning **basics of machine learning**
-
-- 👯 I’m looking to collaborate on **anything that involves web development**
-
-- 📝 Know a little more about me <a href="https://viraj-s.netlify.app">here</a> 
-
-- 📫 How to reach me **viraj.v.shah03@gmail.com**
+### I am a student at VIT Vellore and I love messing around with tech. 
+### I use arch btw
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
