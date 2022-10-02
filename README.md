@@ -2,9 +2,11 @@
 <h3 align="center">Full Stack Developer || Machine Learning Enthusiast || Student </h3>
 
 <div align="center">
- <p>**I am a pursuing a BTech at VIT Vellore and I love messing around with tech. I am a linux enthusiast and an open source aficionado(I use arch btw)**</p>   
+  <p><b>I am a pursuing a BTech at VIT Vellore and I love messing around with tech. I am a linux enthusiast and an open source aficionado(I use arch btw). At the moment, I am strengthening my undestanding of machine learning. I am looking to colaborate on any project that pushes me outside my comfort zone and enables me to learn and implement technology more efficiently.</p></b> 
 </div>
+
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/viraj-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viraj-s" height="30" width="40" /></a>
 <a href="https://instagram.com/heyy_veer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heyy_veer" height="30" width="40" /></a>
