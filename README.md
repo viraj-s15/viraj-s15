@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer || Machine Learning Enthusiast || Student </h3>
 
 <div align="center">
-  <p><b>I am a pursuing a BTech at VIT Vellore and I love messing around with tech. I am a linux enthusiast and an open source aficionado(I use arch btw). At the moment, I am strengthening my undestanding of machine learning. I am looking to colaborate on any project that pushes me outside my comfort zone and enables me to learn and implement technology more efficiently.</p></b> 
+  <p><b>I am pursuing a BTech  at VIT Vellore and I love messing around with tech. I am a linux enthusiast and an open source aficionado(I use arch btw). At the moment, I am strengthening my undestanding of machine learning. I am looking to colaborate on any project that pushes me outside my comfort zone and enables me to learn and implement technology more efficiently.</p></b> 
 </div>
 
 <h3 align="left">Connect with me:</h3>
