@@ -23,11 +23,17 @@
 </p>
 
 <div align="center">
-  <span>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viraj-s15&show_icons=true&locale=en&layout=compact" alt="viraj-s15" /></p>
+<img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=viraj-s15&theme=tokyonight&custom_title=Viraj+Shah's+GitHub+Stats&show_icons=true&locale=en"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viraj-s15&show_icons=true&locale=en" alt="viraj-s15" /></p>
-  </span>
+<img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=viraj-s15&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" alt="Streak Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viraj-s15&layout=compact"/>
+
+
+  
+
+
+  
   
 ### Currently Vibing to: 
  <br>
