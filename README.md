@@ -27,7 +27,7 @@
 
 <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=viraj-s15&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" alt="Streak Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viraj-s15&layout=compact"/>
+<img width="49%" alt="Streak Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viraj-s15&layout=compac&theme=tokyonightt"/>
 
 
   
