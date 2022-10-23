@@ -77,7 +77,7 @@
   
   <br>
   
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/viraj-s15/viraj-s15/blob/output/github-contribution-grid-snake.svg)
 
 ### Currently listening: 
  <br>
