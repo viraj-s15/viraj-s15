@@ -67,9 +67,9 @@
 </p> -->
 
 <div align="center">
-<img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=viraj-s15&theme=tokyonight&custom_title=Viraj+Shah's+GitHub+Stats&show_icons=true&locale=en"/>
+<img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=viraj-s15&theme=tokyonight&custom_title=Viraj+Shah's+GitHub+Stats&show_icons=true&locale=en"/>&nbsp;&nbsp;
 
-<img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=viraj-s15&theme=tokyonight&hide_border=true"/>
+<img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=viraj-s15&theme=tokyonight"/>
 
 <br>
   <br>
