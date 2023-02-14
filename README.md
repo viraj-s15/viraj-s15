@@ -76,7 +76,7 @@
 
 <br>
   <br>
-<img width="49%" alt="Streak Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viraj-s15&layout=compact&theme=tokyonightt"/>
+<img width="49%" alt="Streak Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viraj-s15&layout=compact&theme=tokyonightt&langs_count=10"/>
   
   <br>
   
