@@ -1,9 +1,13 @@
 <h1 align="center">Hey there, I'm Viraj</h1>
 <h3 align="center">Full Stack Developer || Machine Learning Enthusiast || Student </h3>
 
+
+
 <div align="center">
   <p><b>I am pursuing a BTech  at VIT Vellore and I love messing around with tech. I am a linux enthusiast and an open source aficionado(I use arch btw). At the moment, I am strengthening my undestanding of machine learning. I am looking to colaborate on any project that pushes me outside my comfort zone and enables me to learn and implement technology more efficiently.</p></b> 
 </div>
+
+ ![](https://komarev.com/ghpvc/?username=viraj-s15&style=for-the-badge)
 
 <h3 align="left">Connect with me:</h3>
 
@@ -24,6 +28,8 @@
     <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -69,6 +75,8 @@
 </p>
 </p> -->
 
+
+
 <div align="center">
 <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=viraj-s15&theme=tokyonight&custom_title=Viraj+Shah's+GitHub+Stats&show_icons=true&locale=en"/>&nbsp;&nbsp;
 
@@ -87,6 +95,8 @@
 
 [![Spotify](https://pht6jxur71of4ibu559zxm1jh-2wwtj1cc0-viraj-s15.vercel.app/api/spotify/)](https://open.spotify.com/user/pht6jxur71of4ibu559zxm1jh) -->
 </div>
+
+
 
 
 
