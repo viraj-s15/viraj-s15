@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <p><b>I am student pursuing a BTech degre and I love messing around with tech. I am a linux enthusiast and an open source aficionado(I use arch btw). At the moment, I am strengthening my undestanding of machine learning. I am looking to colaborate on any project that pushes me outside my comfort zone and enables me to learn and implement technology more efficiently.</p></b> 
+  <p><b>I am student pursuing a BTech degree at VIT Vellore and I love messing around with tech. I am a linux enthusiast and an open source aficionado(I use arch btw). At the moment, I am strengthening my undestanding of machine learning. I am looking to colaborate on any project that pushes me outside my comfort zone and enables me to learn and implement technology more efficiently.</p></b> 
 </div>
 
  ![](https://komarev.com/ghpvc/?username=viraj-s15&style=for-the-badge)
