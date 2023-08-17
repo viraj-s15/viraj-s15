@@ -81,13 +81,15 @@
 
 
 <div align="center">
-<img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=viraj-s15&theme=tokyonight&custom_title=Viraj+Shah's+GitHub+Stats&show_icons=true&locale=en"/>&nbsp;&nbsp;
+<img width="49%" alt="Stats" src="https://github-readme-stats-pdr4.vercel.app/api?username=viraj-s15&theme=tokyonight&custom_title=Viraj+Shah's+GitHub+Stats&show_icons=true&locale=en"/>&nbsp;&nbsp;
+
+
 
 <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=viraj-s15&theme=tokyonight"/>
 
 <br>
   <br>
-<img width="49%" alt="Streak Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viraj-s15&layout=compact&theme=tokyonightt&langs_count=10"/>
+<img width="49%" alt="Streak Stats" src="https://github-readme-stats-pdr4.vercel.app/api/top-langs/?username=viraj-s15&layout=compact&theme=tokyonight&langs_count=10"/>
   
   <br>
   
