@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Viraj</h1>
-<h3 align="center">Full Stack Developer || Machine Learning Enthusiast || Student </h3>
+<h3 align="center"> Machine Learning Engineer || Full Stack Developer || Student </h3>
 
 
 
