@@ -2,7 +2,7 @@
 <h3 align="center"> Machine Learning Engineer || Full Stack Developer || Student </h3>
 
 
-<h5>I use arch btw 😎</h5>
+<h5>I like to code</h5>
 
 <details>
   <summary><b>More about me<b></summary>
