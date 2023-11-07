@@ -4,6 +4,9 @@
 
 <h5>I like to code</h5>
 
+[Resume](https://drive.google.com/file/d/1L_YQg8mYzC5xw1QiZj2P3W3xcF3IspI0/view?usp=sharing)
+
+
 <details>
   <summary><b>More about me<b></summary>
   <br>
