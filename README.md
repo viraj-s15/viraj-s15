@@ -96,6 +96,8 @@ I write articles too!
 
 [![Viraj Shah Medium](https://github-readme-medium-iota.vercel.app/?username=veer15)](https://medium.com/@veer15)
 
+<br>
+
 <div align="center">
 <img width="49%" alt="Stats" src="https://github-readme-stats-pdr4.vercel.app/api?username=viraj-s15&theme=tokyonight&custom_title=Viraj+Shah's+GitHub+Stats&show_icons=true&locale=en"/>&nbsp;&nbsp;
 
