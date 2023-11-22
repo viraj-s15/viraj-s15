@@ -2,9 +2,7 @@
 <h3 align="center"> Machine Learning Engineer || Full Stack Developer || Student </h3>
 
 
-<h5>I like to code</h5>
-
-
+<h5 align="center">I like to code. I also work on open source projects</h5>
 
 <details>
   <summary><b>More about me<b></summary>
