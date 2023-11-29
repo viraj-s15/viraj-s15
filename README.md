@@ -106,10 +106,9 @@ I write articles too!
   
 ![github contribution grid snake animation](https://raw.githubusercontent.com/viraj-s15/viraj-s15/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/viraj-s15/viraj-s15/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<!-- ### Currently listening: 
  <br>
 
-[![Spotify](https://pht6jxur71of4ibu559zxm1jh-2wwtj1cc0-viraj-s15.vercel.app/api/spotify/)](https://open.spotify.com/user/pht6jxur71of4ibu559zxm1jh) -->
+[![Spotify](https://pht6jxur71of4ibu559zxm1jh-2wwtj1cc0-viraj-s15.vercel.app/api/spotify/)](https://open.spotify.com/user/pht6jxur71of4ibu559zxm1jh)
 </div>
 
 
