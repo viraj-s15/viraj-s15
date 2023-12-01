@@ -84,10 +84,12 @@
 <img src="https://seeklogo.com/images/G/graphql-logo-97CBBB6D51-seeklogo.com.png" alt="webpack" width="40" height="40"/> </a>
 </p>
 </p> -->
-
 I write articles too!
 
 [![Viraj Shah Medium](https://github-readme-medium-iota.vercel.app/?username=veer15)](https://medium.com/@veer15)
+
+<details>
+  <summary><b>Useless Stats no one checks<b></summary>
 
 <br>
 
@@ -103,12 +105,18 @@ I write articles too!
 <img width="49%" alt="Streak Stats" src="https://github-readme-stats-pdr4.vercel.app/api/top-langs/?username=viraj-s15&layout=compact&theme=tokyonight&langs_count=10"/>
   
   <br>
-  
+</details>
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/viraj-s15/viraj-s15/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/viraj-s15/viraj-s15/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
  <br>
 
+</div>
+
+<div align="center">
+  
 [![Spotify](https://pht6jxur71of4ibu559zxm1jh-2wwtj1cc0-viraj-s15.vercel.app/api/spotify/)](https://open.spotify.com/user/pht6jxur71of4ibu559zxm1jh)
+
 </div>
 
 
