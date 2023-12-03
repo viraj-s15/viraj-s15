@@ -84,7 +84,7 @@
 <img src="https://seeklogo.com/images/G/graphql-logo-97CBBB6D51-seeklogo.com.png" alt="webpack" width="40" height="40"/> </a>
 </p>
 </p> -->
-I write articles too!
+The latest article from my blog!
 
 [![Viraj Shah Medium](https://github-readme-medium-iota.vercel.app/?username=veer15)](https://medium.com/@veer15)
 
