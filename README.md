@@ -33,6 +33,9 @@
   <a href="https://huggingface.co/Veer15" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HuggingFace&logo=HuggingFace&label=&color=fbff00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://medium.com/@veer15" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=Medium&label=&color=1f1f1f&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 
