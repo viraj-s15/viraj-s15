@@ -89,7 +89,18 @@
 </p> -->
 The latest article from my blog!
 
+<div align="center">
+  
 [![Viraj Shah Medium](https://github-readme-medium-iota.vercel.app/?username=veer15)](https://medium.com/@veer15)
+
+</div>
+
+<div align="center">
+  
+[![viraj-s15's GitHub | Stats](https://stats.quine.sh/viraj-s15/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=viraj-s15) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![viraj-s15's GitHub | Dependencies](https://stats.quine.sh/viraj-s15/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=viraj-s15)
+
+</div>
+
 
 <details>
   <summary><b>Useless Stats no one checks<b></summary>
