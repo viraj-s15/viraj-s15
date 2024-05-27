@@ -1,14 +1,22 @@
-![github-header-image](https://github.com/viraj-s15/viraj-s15/assets/79002760/97a8092a-1ca6-4594-82bb-6bbcbba4ff18)
+<!-- ![github-header-image](https://github.com/viraj-s15/viraj-s15/assets/79002760/97a8092a-1ca6-4594-82bb-6bbcbba4ff18) -->
+Hi 👋 My name is Viraj
+======================
 
+Machine Learning Enthusiast and Web Developer
+---------------------------------------------
 
-<details>
+*   🌍  I'm based in Mumbai, India
+*   ✉️  You can contact me at [viraj.v.shah03@gmail.com](mailto:viraj.v.shah03@gmail.com)
+*   🧠  I'm learning Rust
+
+<!--<details>
   <summary><b>More about me<b></summary>
   <br>
 <div align="center">
   <p>I am a student pursuing a BTech degree at VIT Vellore and I love messing around with tech. I am a linux enthusiast and an open source aficionado(I use arch btw). At the moment, I am strengthening my undestanding of machine learning. I am looking to colaborate on any project that pushes me outside my comfort zone and enables me to learn and implement technology more efficiently. <br> <br> TLDR:I like to code </p> 
 </div>
 
-</details>
+</details>-->
 
  ![](https://komarev.com/ghpvc/?username=viraj-s15&style=for-the-badge)
 
