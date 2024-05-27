@@ -7,7 +7,6 @@ Student and Machine Learning Researcher
 
 *   🌍  I'm based in Mumbai, India
 *   ✉️  You can contact me at [viraj.v.shah03@gmail.com](mailto:viraj.v.shah03@gmail.com)
-*   🧠  I'm learning Rust
 
 <!--<details>
   <summary><b>More about me<b></summary>
