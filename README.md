@@ -34,9 +34,6 @@ Student and Machine Learning Researcher
   <a href="https://www.linkedin.com/in/viraj-s/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.kaggle.com/veer1516/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
   <a href="https://huggingface.co/Veer15" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HuggingFace&logo=HuggingFace&label=&color=fbff00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
