@@ -2,7 +2,7 @@
 Hi 👋 My name is Viraj
 ======================
 
-AI Engineer and Machine Learning Researcher 
+ML Engineer and Researcher 
 ---------------------------------------------
 
 *   🌍  I'm based in Mumbai, India
