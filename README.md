@@ -91,11 +91,11 @@ ML Engineer and Researcher
 <img src="https://seeklogo.com/images/G/graphql-logo-97CBBB6D51-seeklogo.com.png" alt="webpack" width="40" height="40"/> </a>
 </p>
 </p> -->
-<div align="center">
+<!-- <div align="center">
   
 [![viraj-s15's GitHub | Stats](https://stats.quine.sh/viraj-s15/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=viraj-s15) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![viraj-s15's GitHub | Dependencies](https://stats.quine.sh/viraj-s15/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=viraj-s15)
 
-</div>
+</div> -->
 
 
 <details>
