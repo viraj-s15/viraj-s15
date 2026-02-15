@@ -18,6 +18,7 @@ const defaultContent = {
   experience: [
     {
       company: "Fibr.ai",
+      website: "https://fibr.ai",
       timeline: "Dec 2024 — Present",
       roles: ["AI Engineer Intern · Dec 2024 — May 2025", "AI Engineer · Jun 2025 — Present"],
       bullets: [
@@ -28,6 +29,7 @@ const defaultContent = {
     },
     {
       company: "Samsung PRISM R&D",
+      website: "https://research.samsung.com",
       timeline: "Feb 2024 — Dec 2024",
       roles: ["ML Research Intern"],
       bullets: [
@@ -37,6 +39,7 @@ const defaultContent = {
     },
     {
       company: "MakeAnyAI",
+      website: "",
       timeline: "Dec 2023 — Nov 2024",
       roles: ["ML Engineer"],
       bullets: [
@@ -46,6 +49,7 @@ const defaultContent = {
     },
     {
       company: "MarketsMojo",
+      website: "https://www.marketsmojo.com",
       timeline: "Aug 2023 — Oct 2023",
       roles: ["Data Science Intern"],
       bullets: [
@@ -55,12 +59,19 @@ const defaultContent = {
     },
   ],
   skills: [
-    ["Python", "TypeScript", "Rust", "Bash", "HTML/CSS"],
-    ["PyTorch", "Transformers", "TensorFlow", "Keras", "FastAPI"],
-    ["LangChain", "LlamaIndex", "Haystack", "AutoGen", "Google ADK"],
-    ["MLflow", "Kubeflow", "Ray", "DVC", "Docker"],
-    ["AWS", "SageMaker", "Azure AI", "Vertex AI", "Cloud Run", "Git", "Linux"],
-    ["PostgreSQL", "Neo4j", "Pinecone", "ChromaDB", "GitHub Actions"],
+    { label: "Languages", items: "Python, TypeScript, Rust" },
+    { label: "Databases", items: "MongoDB, PostgreSQL, Cassandra, Neo4j, Vector Databases (Pinecone, ChromaDB)" },
+    {
+      label: "Frameworks & Libraries",
+      items:
+        "PyTorch, Transformers, Deep Graph Library (DGL), FastAPI, Apache Beam, Google ADK, AutoGen, TensorZero",
+    },
+    { label: "MLOps Tooling", items: "MLflow, Kubeflow, Ray, DVC" },
+    {
+      label: "Cloud Technologies",
+      items: "AWS SageMaker, Vertex AI, Azure AI Foundry",
+    },
+    { label: "DevOps", items: "Docker, GitHub Actions, Git, Linux" },
   ],
   education: [
     { left: "VIT University, Vellore : GPA 9.05/10", timeline: "Aug 2025" },
@@ -134,6 +145,16 @@ const buildNode = (tag, className, text) => {
   return node;
 };
 
+const splitTimeline = (timelineText) => {
+  const raw = (timelineText || "").trim();
+  if (!raw) return { from: "", to: "" };
+  const parts = raw.split("—").map((part) => part.trim()).filter(Boolean);
+  if (parts.length >= 2) {
+    return { from: parts[0], to: parts.slice(1).join(" — ") };
+  }
+  return { from: raw, to: raw };
+};
+
 const renderHero = (hero) => {
   const name = document.querySelector('[data-field="hero-name"]');
   const badge = document.querySelector('[data-field="hero-badge"]');
@@ -169,23 +190,44 @@ const renderExperience = (items) => {
   (items || []).forEach((item) => {
     const article = buildNode("article", "entry");
     const titleWrap = buildNode("div", "entry__title");
-    const title = buildNode("h3", "", item.company || "");
-    const time = buildNode("span", "entry__time", item.timeline || "");
+    const title = buildNode("h3", "");
+    if (item.website) {
+      const companyLink = buildNode("a", "entry__company-link", item.company || "");
+      companyLink.href = item.website;
+      companyLink.target = "_blank";
+      companyLink.rel = "noreferrer";
+      title.appendChild(companyLink);
+    } else {
+      title.textContent = item.company || "";
+    }
     titleWrap.appendChild(title);
-    titleWrap.appendChild(time);
     article.appendChild(titleWrap);
 
+    const body = buildNode("div", "entry__body");
+    const timelineRail = buildNode("div", "entry__timelineRail");
+    const fromTo = splitTimeline(item.timeline);
+    const from = buildNode("p", "entry__from", fromTo.from);
+    const line = buildNode("span", "entry__line");
+    const to = buildNode("p", "entry__to", fromTo.to);
+    timelineRail.appendChild(to);
+    timelineRail.appendChild(line);
+    timelineRail.appendChild(from);
+
+    const content = buildNode("div", "entry__content");
     const progress = buildNode("div", "entry__progress");
     (item.roles || []).forEach((role) => {
       progress.appendChild(buildNode("p", "entry__role", role));
     });
-    article.appendChild(progress);
-
     const list = buildNode("ul", "entry__list");
     (item.bullets || []).forEach((bullet) => {
       list.appendChild(buildNode("li", "", bullet));
     });
-    article.appendChild(list);
+    content.appendChild(progress);
+    content.appendChild(list);
+
+    body.appendChild(content);
+    body.appendChild(timelineRail);
+    article.appendChild(body);
 
     root.appendChild(article);
   });
@@ -197,10 +239,11 @@ const renderSkills = (groups) => {
   root.innerHTML = "";
 
   (groups || []).forEach((group) => {
-    const row = buildNode("div", "tag-group");
-    group.forEach((skill) => {
-      row.appendChild(buildNode("span", "tag", skill));
-    });
+    const row = buildNode("div", "skill-row");
+    const label = buildNode("span", "skill-row__label", `${group.label || ""} -`);
+    const value = buildNode("span", "skill-row__items", group.items || "");
+    row.appendChild(label);
+    row.appendChild(value);
     root.appendChild(row);
   });
 };

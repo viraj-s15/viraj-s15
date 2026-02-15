@@ -21,6 +21,7 @@
   "experience": [
     {
       "company": "Fibr.ai",
+      "website": "https://fibr.ai",
       "timeline": "Dec 2024 — Present",
       "roles": [
         "AI Engineer Intern · Dec 2024 — May 2025",
@@ -34,6 +35,7 @@
     },
     {
       "company": "Samsung PRISM R&D",
+      "website": "https://research.samsung.com",
       "timeline": "Feb 2024 — Dec 2024",
       "roles": ["ML Research Intern"],
       "bullets": [
@@ -43,6 +45,7 @@
     },
     {
       "company": "MakeAnyAI (Stealth Startup)",
+      "website": "",
       "timeline": "Dec 2023 — Nov 2024",
       "roles": ["ML Engineer"],
       "bullets": [
@@ -52,6 +55,7 @@
     },
     {
       "company": "MarketsMojo",
+      "website": "https://www.marketsmojo.com",
       "timeline": "Aug 2023 — Oct 2023",
       "roles": ["Data Science Intern"],
       "bullets": [
@@ -61,12 +65,30 @@
     }
   ],
   "skills": [
-    ["Python", "TypeScript", "Rust", "Bash", "HTML/CSS"],
-    ["PyTorch", "Transformers", "TensorFlow", "Keras", "FastAPI"],
-    ["LangChain", "LlamaIndex", "Haystack", "AutoGen", "Google ADK"],
-    ["MLflow", "Kubeflow", "Ray", "DVC", "Docker"],
-    ["AWS", "SageMaker", "Azure AI", "Vertex AI", "Cloud Run", "Git", "Linux"],
-    ["PostgreSQL", "Neo4j", "Pinecone", "ChromaDB", "GitHub Actions"]
+    {
+      "label": "Languages",
+      "items": "Python, TypeScript, Rust"
+    },
+    {
+      "label": "Databases",
+      "items": "MongoDB, PostgreSQL, Cassandra, Neo4j, Vector Databases (Pinecone, ChromaDB)"
+    },
+    {
+      "label": "Popular Libraries",
+      "items": "PyTorch, Transformers, Deep Graph Library (DGL), FastAPI, Apache Beam, Google ADK, AutoGen, TensorZero"
+    },
+    {
+      "label": "MLOps Tooling",
+      "items": "MLflow, Kubeflow, Ray, DVC"
+    },
+    {
+      "label": "Cloud Technologies",
+      "items": "AWS SageMaker, Vertex AI, Azure AI Foundry"
+    },
+    {
+      "label": "DevOps",
+      "items": "Docker, GitHub Actions, Git, Linux"
+    }
   ],
   "education": [
     {
