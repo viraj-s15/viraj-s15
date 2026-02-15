@@ -1,0 +1,101 @@
+{
+  "hero": {
+    "name": "VIRAJ SHAH_",
+    "badge": "I_USE_ARCH_BTW",
+    "status": ["LOC: MUMBAI_IN", "STATUS: ACTIVE_FOR_HIRE"],
+    "role": "Production AI Engineer // MLOps // Gen-AI",
+    "bio": "I build production ML systems, LLM orchestration, and applied research pipelines that ship fast and stay reliable. I help teams move from prototype to scalable infra with measurable latency and quality gains.",
+    "actions": [
+      {
+        "label": "Execute_Reach_Out()",
+        "href": "mailto:viraj.v.shah03@gmail.com",
+        "kind": "primary"
+      },
+      {
+        "label": "Download_CV.pdf",
+        "href": "assets/viraj-shah-cv.pdf",
+        "kind": "ghost"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "company": "Fibr.ai",
+      "timeline": "Dec 2024 — Present",
+      "roles": [
+        "AI Engineer Intern · Dec 2024 — May 2025",
+        "AI Engineer · Jun 2025 — Present"
+      ],
+      "bullets": [
+        "Fine-tuned FluxDev and Hunyuan Video for realistic daily life object generation",
+        "Migrated real-time personalization resolver from AWS Lambda to Cloud Run, cutting response times by 50%",
+        "Built ComfyUI augmentation workflows and an autonomous web monitoring agent (Google ADK)"
+      ]
+    },
+    {
+      "company": "Samsung PRISM R&D",
+      "timeline": "Feb 2024 — Dec 2024",
+      "roles": ["ML Research Intern"],
+      "bullets": [
+        "Built a super-resolution model with frequency projections, transformers, and diffusion",
+        "Delivered +12% PSNR and +25% SSIM over SOTA baselines"
+      ]
+    },
+    {
+      "company": "MakeAnyAI (Stealth Startup)",
+      "timeline": "Dec 2023 — Nov 2024",
+      "roles": ["ML Engineer"],
+      "bullets": [
+        "Built LLM orchestration across Slack, Google Docs, Salesforce, and HubSpot",
+        "Shipped fine-tuned models for beta launch and a real-time AI meeting assistant"
+      ]
+    },
+    {
+      "company": "MarketsMojo",
+      "timeline": "Aug 2023 — Oct 2023",
+      "roles": ["Data Science Intern"],
+      "bullets": [
+        "Implemented aspect-based sentiment analysis with PyTorch, deployed on SageMaker",
+        "Built stock trend pipeline with XGBoost + sentiment analyzer (79% accuracy)"
+      ]
+    }
+  ],
+  "skills": [
+    ["Python", "TypeScript", "Rust", "Bash", "HTML/CSS"],
+    ["PyTorch", "Transformers", "TensorFlow", "Keras", "FastAPI"],
+    ["LangChain", "LlamaIndex", "Haystack", "AutoGen", "Google ADK"],
+    ["MLflow", "Kubeflow", "Ray", "DVC", "Docker"],
+    ["AWS", "SageMaker", "Azure AI", "Vertex AI", "Cloud Run", "Git", "Linux"],
+    ["PostgreSQL", "Neo4j", "Pinecone", "ChromaDB", "GitHub Actions"]
+  ],
+  "education": [
+    {
+      "left": "VIT University, Vellore : GPA 9.05/10",
+      "timeline": "Aug 2025"
+    },
+    {
+      "left": "Navneet Junior College, Mumbai : Score 96%",
+      "timeline": "Jul 2021"
+    }
+  ],
+  "footer": {
+    "links": [
+      {
+        "label": "GITHUB",
+        "href": "https://github.com/viraj-s15"
+      },
+      {
+        "label": "LINKEDIN",
+        "href": "https://www.linkedin.com/in/viraj-s/"
+      },
+      {
+        "label": "HUGGINGFACE",
+        "href": "https://huggingface.co/Veer15"
+      }
+    ],
+    "meta": "PACKETS_SENT: 42,912KB | LOSS: 0%"
+  },
+  "github": {
+    "username": "viraj-s15"
+  }
+}
