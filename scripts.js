@@ -61,6 +61,7 @@ const defaultContent = {
   skills: [
     { label: "Languages", items: "Python, TypeScript, Rust" },
     { label: "Databases", items: "MongoDB, PostgreSQL, Cassandra, Neo4j, Vector Databases (Pinecone, ChromaDB)" },
+    { label: "Message Queues", items: "Kafka, AWS SQS, GCP Pub/Sub" },
     {
       label: "Frameworks & Libraries",
       items:

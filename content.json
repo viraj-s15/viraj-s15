@@ -74,6 +74,10 @@
       "items": "MongoDB, PostgreSQL, Cassandra, Neo4j, Vector Databases (Pinecone, ChromaDB)"
     },
     {
+      "label": "Message Queues",
+      "items": "Kafka, AWS SQS, GCP Pub/Sub"
+    },
+    {
       "label": "Popular Libraries",
       "items": "PyTorch, Transformers, Deep Graph Library (DGL), FastAPI, Apache Beam, Google ADK, AutoGen, TensorZero"
     },
