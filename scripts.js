@@ -12,7 +12,7 @@ const defaultContent = {
     bio: "I build production ML systems, LLM orchestration, and applied research pipelines that ship fast and stay reliable. I help teams move from prototype to scalable infra with measurable latency and quality gains.",
     actions: [
       { label: "Execute_Reach_Out()", href: "mailto:viraj.v.shah03@gmail.com", kind: "primary" },
-      { label: "Download_CV.pdf", href: "assets/viraj-shah-cv.pdf", kind: "ghost" },
+      { label: "Download_CV.pdf", href: "https://drive.google.com/file/d/1DD7wKxNyd9A6ofI6__pYVeiO1X3dwU9X/view?usp=sharing", kind: "ghost" },
     ],
   },
   experience: [
