@@ -17,7 +17,6 @@ ML Engineer and Researcher
 
 </details>-->
 
- ![](https://komarev.com/ghpvc/?username=viraj-s15&style=for-the-badge)
 
 <h3 align="left">Connect with me:</h3>
 
@@ -128,6 +127,8 @@ ML Engineer and Researcher
 <!-- [![Spotify](https://pht6jxur71of4ibu559zxm1jh-2wwtj1cc0-viraj-s15.vercel.app/api/spotify/)](https://open.spotify.com/user/pht6jxur71of4ibu559zxm1jh)
 
 </div> -->
+
+ ![](https://komarev.com/ghpvc/?username=viraj-s15&style=for-the-badge)
 
 
 
