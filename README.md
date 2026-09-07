@@ -5,8 +5,8 @@ Hi 👋 My name is Viraj
 AI/ML Engineer 
 ---------------------------------------------
 
-*   🌍  I'm based in Mumbai, India
-*   ✉️  You can contact me at [viraj.v.shah03@gmail.com](mailto:viraj.v.shah03@gmail.com)
+*   🌍  I'm based in Philadelphia, PA
+*   ✉️  You can contact me at [viraj.shah1503@gmail.com](mailto:viraj.shah1503@gmail.com)
 
 <!--<details>
   <summary><b>More about me<b></summary>
