@@ -2,7 +2,7 @@
 Hi 👋 My name is Viraj
 ======================
 
-AI/ML Engineer 
+SWE - Mostly work around AI and Backend Systems
 ---------------------------------------------
 
 *   🌍  I'm based in Philadelphia, PA
