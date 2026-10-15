@@ -1,6 +1,6 @@
 ### Hi, I'm Viraj
 
-I build back-end and AI systems.
+I build backend and AI systems.
 
 <samp><a href="https://viraj-s15.github.io/">portfolio ↗</a> · <a href="https://www.linkedin.com/in/viraj-shah15/">linkedin ↗</a> · <a href="https://huggingface.co/Veer15">hugging face ↗</a> · <a href="https://medium.com/@veer15">medium ↗</a> · <a href="mailto:viraj.shah1503@gmail.com">email ↗</a></samp>
 
