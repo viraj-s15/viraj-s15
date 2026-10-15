@@ -1,8 +1,8 @@
 ### Hi, I'm Viraj
 
-I build backend and AI systems. Previously at [Fibr.ai](https://fibr.ai), now studying computer science at Penn.
+I build back-end and AI systems.
 
-You can reach me at [viraj.shah1503@gmail.com](mailto:viraj.shah1503@gmail.com).
+<samp><a href="https://viraj-s15.github.io/">portfolio ↗</a> · <a href="https://www.linkedin.com/in/viraj-shah15/">linkedin ↗</a> · <a href="https://huggingface.co/Veer15">hugging face ↗</a> · <a href="https://medium.com/@veer15">medium ↗</a> · <a href="mailto:viraj.shah1503@gmail.com">email ↗</a></samp>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viraj-s15/viraj-s15/output/github-contribution-grid-snake-dark.svg">
